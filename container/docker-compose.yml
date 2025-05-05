@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  apache:
+    build: .
+    container_name: site-apache
+    ports:
+      - "8080:80"
+    volumes:
+      - ./site:/var/www/html
