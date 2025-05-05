@@ -1,6 +1,6 @@
-# 🚀 Bootcamp Jornada DevOps com AWS - Impulso
+# Bootcamp Jornada DevOps com AWS - Impulso
 
-Este repositório contém atividades desenvolvidas durante o Bootcamp, incluindo projetos com **Docker**, **Apache** e **scripts Linux**.
+Este repositório contém algumas atividades desenvolvidas durante o Bootcamp.
 
 ---
 
@@ -10,7 +10,7 @@ Este repositório contém atividades desenvolvidas durante o Bootcamp, incluindo
 
 Aplicação simples utilizando o servidor **Apache** em um container Docker, que serve uma página HTML estática.
 
-### ✅ Como rodar:
+### Como rodar:
 
 1. Acesse a pasta no terminal:
    ```bash
@@ -33,7 +33,7 @@ Aplicação simples utilizando o servidor **Apache** em um container Docker, que
 
 Conjunto de scripts para praticar comandos básicos e intermediários do shell script.
 
-#### 📜 `script.sh`
+####  `script.sh`
 
 Executa operações como:
 - Criação de diretórios
@@ -41,17 +41,11 @@ Executa operações como:
 - Modificação de permissões
 - Redirecionamento de saída
 
-#### 📜 `script2.sh`
+####  `script2.sh`
 
 Script complementar com exemplos de:
 - Uso de **variáveis**
 - **Loops**
 - **Comandos condicionais**
-
----
-
-## 💡 Objetivo
-
-Praticar conceitos fundamentais de DevOps e Linux com foco em containers, automação e administração de sistemas.
 
 ---
