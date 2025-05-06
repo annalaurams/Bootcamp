@@ -83,9 +83,4 @@ Script complementar com exemplos de:
 - **Loops**
 - **Comandos condicionais**
 
----
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 7a5d056 (atividade 4)
